@@ -489,18 +489,18 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
-    postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    subtitle: "Dublin, Ireland",
+    locality: "Dublin 8",
+    country: "Oreland",
+    region: "Dublin",
+    postalCode: "D08NP6Y",
+    streetAddress: "Ardee Street",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://maps.app.goo.gl/JGEiJJSpLTYsa8dAA",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Phone No.",
+    subtitle: "+35383 899 6074",
   },
 };
 
